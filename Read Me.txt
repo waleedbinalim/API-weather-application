@@ -1,0 +1,4 @@
+The project is a part of the course Modern JavaScript: From Novice to Ninja
+by Shaun Pelling (TheNetNinja). Special thanks to him for introducing me to
+ES6 JavaScript. The API used in this is from ACCU Weather. While there are no
+huge changes to the original project in the course, I did change a few of the SVG's
